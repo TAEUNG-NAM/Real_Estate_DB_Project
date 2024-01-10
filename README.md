@@ -1,7 +1,7 @@
 # 부동산 관리시스템
 # (Real Estate DB Project)
 
-- 기여자 : 조준호, 남태윤, 한유정
+- 기여자 : 조준호, 남태웅, 한유정
 
 ## 산출물
 [☞ 프로젝트 결과보고서](https://drive.google.com/file/d/1wjmuHzxoI1mJ_h51eT-rpeldDfsC9c_U/view?usp=sharing)
