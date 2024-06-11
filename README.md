@@ -5,6 +5,7 @@
 
 ## 산출물
 [☞ 프로젝트 결과보고서](https://drive.google.com/file/d/1CsCpbqyVO9pshokED0Vj4_-zQV8gugVy/view?usp=sharing)
+[☞ 프로젝트 시연영상](https://drive.google.com/file/d/1CsCpbqyVO9pshokED0Vj4_-zQV8gugVy/view?usp=sharing](https://drive.google.com/file/d/1ss47i1fd_27vKyvpnl1OAzJvglbX_w2V/view?usp=drive_link)
 
 ## 목표
 - 부동산 중개 및 관리 시스템을 제작하여 부동산을 이용하는 임대인, 고객, 중개인 모두에게 정보제공을 목적으로 개발
